@@ -1,0 +1,16 @@
+{
+  "name": "node_ftp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/shopify-api": "^5.2.0",
+    "shopify-graphql-node": "^0.0.0-semantic-release",
+    "ssh2-sftp-client": "^8.0.0"
+  }
+}
